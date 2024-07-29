@@ -1,5 +1,5 @@
 import sys
-input = sys.stdin.readline
+input = sys.stdin.read
 
 M = int(input())
 S = 0
